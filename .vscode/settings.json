@@ -1,0 +1,9 @@
+{
+     "files.associations": {
+          "*.asm": "assembly",
+          "mem.h": "c",
+          "cstdlib": "c",
+          "*.tcc": "c",
+          "memory": "c"
+     }
+}
